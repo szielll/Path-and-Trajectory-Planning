@@ -1,4 +1,4 @@
-# Path-and-Trajectory-Planning
+# Path and Trajectory Planning of a SCARA - PRR Variant 2 Manipulator
 
 For Path and Trajectory Planning
  
